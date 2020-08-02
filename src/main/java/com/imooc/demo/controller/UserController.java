@@ -26,7 +26,7 @@ public class UserController {
         LOG.info("登录开始, {}", userDto.toString());
 
         Map<String, String> map = new HashMap<>();
-        map.put("aaa", "");
+        map.put("aaa", "阿迪斯");
         map.put("bbbbb", "");
         map.put("nnnnnnn", "");
         map.put("tttttttttt", "");
